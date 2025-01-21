@@ -17,7 +17,9 @@ Books: Maintains a catalog of books, including ISBN, title, category, rental pri
 Customer: Records customer information, including customer ID, name, address, and registration date.
 IssueStatus: Tracks the issuance of books to customers, including issue ID, customer ID, book title, issue date, and ISBN of the book.
 ReturnStatus: Monitors the return of books, including return ID, customer ID, book title, return date, and ISBN of the book.
+
 Key Features
+
 Book Availability: Users can easily check the availability of books and their details.
 Employee Management: Administrators can manage employee records and their respective branches.
 Customer Registration: New customers can register and their information is stored for future reference.
